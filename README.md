@@ -1,16 +1,11 @@
-HAIKAL AZHAR
-21/5/2001
+# LANGUAGE
+C, C++, Assembly (Atmega), Python, Java, C#, Matlab and LabVIEW
 
-Mechatronic Engineering student at UTM JB
+# IDEs
+VS Code, STM32CubeIDE
 
-Fluent in:
-C, C++, Assembly (Atmega), LabVIEW
-
-Comfortable but require syntax dictionary:
-Python, Java, C#, Matlab
-
-Most used IDEs:
-VS code, STM32CubeIDE
-
-Topics:
+# Topics
 AI, Computer Vision, Firmware, Microcontroller, IOT
+
+# Operating Systems
+Microsoft, Linux (Ubuntu, Raspbian)
