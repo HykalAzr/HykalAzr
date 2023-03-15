@@ -1,11 +1,11 @@
-# LANGUAGE
+## LANGUAGE
 C, C++, Assembly (Atmega), Python, Java, C#, Matlab and LabVIEW
 
-# IDEs
+## IDEs
 VS Code, STM32CubeIDE
 
-# Topics
+## Topics
 AI, Computer Vision, Firmware, Microcontroller, IOT
 
-# Operating Systems
+## Operating Systems
 Microsoft, Linux (Ubuntu, Raspbian)
