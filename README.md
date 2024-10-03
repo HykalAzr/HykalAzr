@@ -1,11 +1,11 @@
+## Topics
+Robotics and Autonomous Drive System.
+
 ## LANGUAGE
-C, C++, Assembly (Atmega), Python, Java, C#, Matlab and LabVIEW
+C, C++, Python
 
 ## IDEs
 VS Code, STM32CubeIDE
 
-## Topics
-AI, Computer Vision, Firmware, Microcontroller, IOT
-
-## Operating Systems
-Microsoft, Linux (Ubuntu, Raspbian)
+## OS
+Ubuntu 24.04
